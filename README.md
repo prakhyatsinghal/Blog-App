@@ -1,5 +1,4 @@
-# Blog-App
- •    
+
 
 # Welcome to Blog App
 
